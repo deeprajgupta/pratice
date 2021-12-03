@@ -17,13 +17,7 @@ function App() {
         >
           Learn Reactaaaaaaaaaaaaaaa
           one commit kkkk
-          second commit kkkk
-          third commit kkkkone commit kkkk
-          second commit kkkk
-          third commit kkkk
-          one commit kkkk
-          second commit kkkk
-          third commit kkkk
+          merge first commit to second
         </a>
       </header>
     </div>
