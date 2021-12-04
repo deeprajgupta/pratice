@@ -18,6 +18,8 @@ function App() {
           Learn Reactaaaaaaaaaaaaaaa
           one commit kkkk
           merge first commit to second
+
+          testing checkout
         </a>
       </header>
     </div>
