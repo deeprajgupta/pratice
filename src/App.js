@@ -15,11 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Reactaaaaaaaaaaaaaaa
-          one commit kkkk
-          merge first commit to second
-
-          testing checkout
+          4th dec
         </a>
       </header>
     </div>
